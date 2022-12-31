@@ -1,0 +1,2 @@
+com/game/mario/desktop/DesktopLauncher.java
+ com.game.mario.desktop.DesktopLauncher
